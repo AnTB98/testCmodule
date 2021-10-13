@@ -1,3 +1,5 @@
+# Makefile for C++ used for testing custom library
+
 CPP=g++
 CPFLAGS= -g -Wall
 SRC=src
