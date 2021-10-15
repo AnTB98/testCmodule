@@ -1,1 +1,3 @@
-# Sending files/folders to other devices
+# Purpose:
+
+Used for testing C/C++ custom modules
