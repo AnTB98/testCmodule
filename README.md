@@ -1,3 +1,1 @@
-# Purpose:
-
-Used for testing C/C++ custom modules
+# Used for testing C/C++ custom modules
